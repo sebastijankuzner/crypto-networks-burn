@@ -58,3 +58,5 @@ env.json
 
 # Yarn
 .yarn/sdks/**
+
+.yarn
