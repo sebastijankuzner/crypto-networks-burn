@@ -383,6 +383,7 @@ export declare const devnet: {
         wif: number;
         slip44: number;
         aip20: number;
+        burnAddress: string;
         client: {
             token: string;
             symbol: string;
